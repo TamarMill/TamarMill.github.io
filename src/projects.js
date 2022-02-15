@@ -6,25 +6,15 @@ export default () => {
         <div style={{color: "black"}}>
             <Col>
                 <Row>
-                    <Col>
-                        <Card style={{ width: '18rem' }}>
-                            <Card.Body>
-                                <Card.Title>Project 1</Card.Title>
-                                <Card.Text>
-                                    Some quick example text to build on
-                                </Card.Text>
-                                <Button onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
-                            </Card.Body>
-                        </Card>
-                    </Col>
+                 
                     <Col>
                         <Card style={{ width: '18rem' }}>
                             <Card.Body>
                                 <Card.Title>Project 2</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                   Rack-O Card game (Java). Demonstrates use of stacks.
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://github.com/TamarMill/RackoGame")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -33,9 +23,9 @@ export default () => {
                             <Card.Body>
                                 <Card.Title>Project 3</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                    Context Switching Simulation (Java)
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://github.com/TamarMill/ContextSwitch")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -47,9 +37,9 @@ export default () => {
                             <Card.Body>
                                 <Card.Title>Project 4</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                    Tic-Tac-Toe Game -N*N size board (Python)
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://github.com/TamarMill/TicTacToe")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -58,9 +48,10 @@ export default () => {
                             <Card.Body>
                                 <Card.Title>Project 5</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+								Election Outcome Generator- Demonstrates use of Observable and Strategy
+								Patterns (Java)
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://github.com/TamarMill/electionsProject-ObservableandStrategyPatterns")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>

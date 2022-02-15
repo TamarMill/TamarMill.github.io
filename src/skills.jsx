@@ -5,11 +5,11 @@ export default () => {
         <h3>Skills</h3>
         <h4>
             <Badge bg="secondary">Java</Badge>
-            <Badge bg="secondary">JavaScript</Badge>
+            <Badge bg="secondary">Data Structures</Badge>
             <br />
             <Badge bg="secondary">SQL</Badge>
             <Badge bg="secondary">Python</Badge>
-            <Badge bg="secondary">System Design</Badge>
+            
         </h4>
     </div>
 }

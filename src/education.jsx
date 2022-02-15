@@ -10,8 +10,8 @@ export default () => {
             <ul>
                 <li>BS Computer Science Touro University</li>
                 <ul style={{paddingBottom: 0}}>
-                    <li style={subBullet}> Data Structures I and II</li>
-                    <li style={subBullet}>UNIX Operating Systems</li>
+                    <li style={subBullet}>Data Structures I and II</li>
+                    <li style={subBullet}>Operating Systems</li>
                     <li style={subBullet}>Programming Languages</li>
                     <li style={subBullet}>Computer Architecture</li>
                 </ul>
