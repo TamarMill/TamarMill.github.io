@@ -10,7 +10,7 @@ export default () => {
                     <Col>
                         <Card style={{ width: '18rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 2</Card.Title>
+                                <Card.Title>Project 1</Card.Title>
                                 <Card.Text>
                                    Rack-O Card game (Java). Demonstrates use of stacks.
                                 </Card.Text>
@@ -21,7 +21,7 @@ export default () => {
                     <Col>
                         <Card style={{ width: '18rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 3</Card.Title>
+                                <Card.Title>Project 2</Card.Title>
                                 <Card.Text>
                                     Context Switching Simulation (Java)
                                 </Card.Text>
@@ -35,7 +35,7 @@ export default () => {
                     <Col>
                         <Card style={{ width: '18rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 4</Card.Title>
+                                <Card.Title>Project 3</Card.Title>
                                 <Card.Text>
                                     Tic-Tac-Toe Game -N*N size board (Python)
                                 </Card.Text>
@@ -46,7 +46,7 @@ export default () => {
                     <Col>
                         <Card style={{ width: '18rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 5</Card.Title>
+                                <Card.Title>Project 4</Card.Title>
                                 <Card.Text>
 								Election Outcome Generator- Demonstrates use of Observable and Strategy
 								Patterns (Java)
